@@ -1,8 +1,7 @@
-<script>
-  /*
+<!---
 ![Header](https://pronoymukherjeewritescode.github.io/pronoymukherjeewritescode)
-        /*
-          </script>
+        --->
+        
 
 <p>Find me here:</p>
 <p><a href="https://discord.gg/yrj2kpnsU2">
