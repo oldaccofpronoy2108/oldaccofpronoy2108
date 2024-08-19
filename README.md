@@ -1,4 +1,8 @@
-[![Header](https://raw.githubusercontent.com/pronoymukherjeewritescode/pronoymukherjeewritescode/gh-pages/readme_header.png)](https://pronoymukherjeewritescode.github.io/pronoymukherjeewritescode)
+<script>
+  /*
+![Header](https://pronoymukherjeewritescode.github.io/pronoymukherjeewritescode)
+        /*
+          </script>
 
 <p>Find me here:</p>
 <p><a href="https://discord.gg/yrj2kpnsU2">
